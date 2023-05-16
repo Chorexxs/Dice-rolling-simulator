@@ -68,7 +68,7 @@ def roll_dice():
 
         roll = input("¿Tirar otra vez? (Si/No): ")
 
-# Pro último se llama a la función para ejecutarla
+# Por último se llama a la función para ejecutarla
 
 
 roll_dice()
